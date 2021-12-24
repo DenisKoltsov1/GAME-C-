@@ -1,0 +1,49 @@
+﻿  Sfml_pop1.cpp
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(75): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(85): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(89): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(113): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(114): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(145): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(146): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(147): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(188): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(189): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(271): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(328): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(351): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(363): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(372): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\xramzes\source\repos\pop1\pop1\sfml_pop1.cpp(374): warning C4018: <: несоответствие типов со знаком и без знака
+  Pop1.vcxproj -> C:\Users\Xramzes\source\repos\Pop1\Debug\Pop1.exe
